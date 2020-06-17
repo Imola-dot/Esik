@@ -1,2 +1,3 @@
 # Esik
-Az eső nedves
+Az eső nedves.
+Mindennap esik.
